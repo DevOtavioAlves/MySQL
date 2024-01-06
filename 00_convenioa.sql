@@ -1,0 +1,5 @@
+INSERT INTO convenio(id,nome,cnpj,tempo_carencia) VALUES 
+(1,'UNICA SAUDE',94967486000185,'6 meses'),
+(2,'SUL AMERICA',64367053000128,'3 meses'),
+(3,'PLENA SAUDE',74765444000154,'5 meses'),
+(4,'BRADESCO SAUDE',38886939000178,'7 meses');
